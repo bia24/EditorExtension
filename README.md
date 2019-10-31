@@ -4,4 +4,4 @@
 * Gizmos
 * CustomInspector
 * EditorWindow
-* Wizard
+* Wizard.
