@@ -5,3 +5,4 @@
 #不忽略以下后缀名的文件
 !*.cs
 !.gitignore
+!.README.md
