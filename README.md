@@ -1,11 +1,11 @@
-# EditorExtensions   
-**Useful tools**    
-## Assets/Editor/Tools/  
-* StaticFontMaker£ºUGUI¾²Ì¬×ÖÌåÖÆ×÷¹¤¾ß     
+ï»¿# EditorExtensions   
+###Useful tools       
+**Assets/Editor/Tools/** 
+* StaticFontMakerï¼šé™æ€å­—ä½“åˆ¶ä½œå·¥å…·     
       
 	  
-**Some examples of Unity Editor Extension Tools(just for exercises)**    
-## Assets/Editor/Exercises/       
+###Some examples of Unity Editor Extension Tools(just for exercises)    
+**Assets/Editor/Exercises/**         
 * Gizmos
 * CustomInspector
 * EditorWindow
